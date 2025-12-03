@@ -1,12 +1,14 @@
 # Kimi CLI
 
-> [!WARNING] > **本项目说明**：此版本是基于 [官方 Kimi CLI](https://github.com/MoonshotAI/kimi-cli) 改造的定制版本，**非官方主线版本**。
+> [!WARNING] 
+> **本项目说明**：此版本是基于 [官方 Kimi CLI](https://github.com/MoonshotAI/kimi-cli) 改造的定制版本，**非官方主线版本**。
 >
 > 包含额外的功能扩展（CTF Agent、Daemon 模式、自定义模型等），如需使用官方版本，请访问 [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)。
 
 ## 主要功能
 基于 kimi-cli 二次开发的针对 CTF 竞赛的专用 Agent
 
+> [!IMPORTANT]  
 > 建议与 [ez-xbow-platform-mcp](https://github.com/m-sec-org/ez-xbow-platform-mcp) 配合使用。
 
 **🎯 本版本新增功能：**
